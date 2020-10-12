@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">USLawQuiz</string>
     <string name="app_greeting">Welcome to US Law Quiz!</string>
+    <string name="quiz_not_created">Quizzes have not been created yet. Please come back soon!</string>
 </resources>
