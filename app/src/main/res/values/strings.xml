@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">USLawQuiz</string>
+    <string name="app_greeting">Welcome to US Law Quiz!</string>
 </resources>
